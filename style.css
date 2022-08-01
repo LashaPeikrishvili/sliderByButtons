@@ -1,9 +1,22 @@
-div{
+.mainDiv{
     width: 300px;
     height: 150px;
     border: 2px solid red;
+    margin: 0 auto;
 }
 image{
     width: 200px;
     height: 100px;
+}
+button{
+    width: 70px;
+    height: 30px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.buttonsDiv{
+    width: 300px;
+    height: 50px;
+    margin: 0 auto;
 }

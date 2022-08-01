@@ -1,5 +1,5 @@
 let images = ["1.jpg", "2.jpg", "3.jpg"]
 let count = 0;
 
-let div = document.querySelector("div")
+let div = document.querySelector(".mainDiv")
 div.style.backgroundImage = `url(${images[count]})`
